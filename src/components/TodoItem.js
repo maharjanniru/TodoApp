@@ -1,6 +1,3 @@
-import React, { Component } from "react";
-import Todos from "./Todos";
-
 class TodoItem extends Component {
   getStyle = () => {
     return {
